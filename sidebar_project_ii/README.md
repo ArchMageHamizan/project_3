@@ -12,3 +12,6 @@ to change the email address of your github in vs code, use this command:
 >> git config --global user.email <your email>
 to check the current email address of your github account that used in vs code:
 >> git config --global user.email
+
+add vue js extension to your browser enable you to see the vue js console in your 
+inspect element ...
