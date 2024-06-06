@@ -7,3 +7,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
 
 Reference video: https://www.youtube.com/watch?v=Yr4ak4gf3oc&t=357s
+
+to change the email address of your github in vs code, use this command:
+>> git config --global user.email <your email>
+to check the current email address of your github account that used in vs code:
+>> git config --global user.email
